@@ -1,5 +1,6 @@
 title: Aboubekrin Dah
 logo: image/aboubekrin.jpg
-description: 'Eleve ingenieure'
-#show_downloads: true
+description: Élève ingénieur
+show_downloads: true
 theme: jekyll-theme-minimal
+
