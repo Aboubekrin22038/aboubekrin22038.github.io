@@ -28,13 +28,13 @@ Projet visant à automatiser la distribution d’eau et des produits chimiques n
 ### Application de calcul de l'INPC
 Ce projet consiste à développer une application pour stocker les données collectées périodiquement et calculer l'Indice National des Prix à la Consommation (INPC).
 
-- **Technologies utilisées** : Python, Pandas, SQL
-- **Objectif** : Automatiser la collecte et le calcul de l'INPC pour fournir des données précises et à jour.
+- **Technologies utilisées** : Python,  SQL
+
 
 ### Conversion Rate
 Ce projet se concentre sur l'analyse et l'optimisation du taux de conversion pour améliorer les performances commerciales.
 
-- **Technologies utilisées** : Python, Scikit-learn, Tableau
+- **Technologies utilisées** : Python, Scikit-learn
 - **Objectif** : Identifier les facteurs influençant le taux de conversion et proposer des solutions pour l'optimiser.
 
 ### Analyse de sentiment avec LSTM
