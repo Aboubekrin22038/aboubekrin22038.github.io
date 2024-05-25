@@ -42,6 +42,7 @@ Un projet d'analyse de sentiment utilisant un modèle LSTM pour comprendre les �
 
 - **Technologies utilisées** : Python, Keras, TensorFlow
 - **Objectif** : Développer un modèle capable de prédire les sentiments exprimés dans des textes de manière précise.
+- 
 [Télécharger mon CV](CV_22038.pdf)
 
 
