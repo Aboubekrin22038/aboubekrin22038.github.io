@@ -2,10 +2,11 @@
 /* assets/css/style.css */
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f4f4f4;
+    background-color: #ffffff; /* Couleur de fond blanche */
     color: #333;
     line-height: 1.6;
 }
+
 
 .header {
     background: #333;
