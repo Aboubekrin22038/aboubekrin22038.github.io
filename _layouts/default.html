@@ -13,12 +13,16 @@
       <p>{{ site.description }}</p>
     </div>
   </header>
+
   <div class="container">
     {{ content }}
   </div>
+
   <footer class="footer">
     <div class="container">
       <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
+      <p>Retrouvez-moi sur <a href="https://github.com/Aboubekrin22038">GitHub</a></p>
+      <p><a href="{{ site.baseurl }}/archive/main.zip">Télécharger le site au format ZIP</a></p>
     </div>
   </footer>
 </body>
