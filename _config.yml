@@ -1,6 +1,13 @@
 title: Aboubekrin Dah
-logo: image/aboubekrin.jpg
+logo: image/aboubekrin1.jpg
 description: Élève ingénieur
 show_downloads: true
 theme: jekyll-theme-minimal
 
+# Ajouter des configurations pour le CSS personnalisé
+sass:
+  style: compressed
+
+# Inclure le CSS personnalisé dans le build
+include:
+  - assets/css/style.css
