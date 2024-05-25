@@ -22,7 +22,7 @@ Je suis étudiant en ingénierie, spécialisé en statistiques et science des do
 ### Automatisation de la distribution d’eau et de produits chimiques
 Projet visant à automatiser la distribution d’eau et des produits chimiques nécessaires pour nourrir et protéger les plantes contre les ravageurs ou les maladies.
 
-- **Technologies utilisées** : À déterminer
+
 - **Objectif** : Optimiser l'utilisation des ressources et améliorer la santé des plantes.
 
 ### Application de calcul de l'INPC
